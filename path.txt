@@ -1,0 +1,11 @@
+Path: ['AE', 'BE', 'BB', 'CB', 'DB', 'EB', 'EC']
+Directions:
+[Backup,BE]
+[down]
+[Right,BE]
+[Right,BB]
+[Straight,CB]
+[Straight,DB]
+[Right,EB]
+[UP]
+[Finish,EC]

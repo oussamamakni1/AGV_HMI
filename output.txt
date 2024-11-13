@@ -1,0 +1,9 @@
+Path: ['AE', 'BE', 'CE', 'DE', 'EE', 'FE', 'GE']
+Directions:
+[Backup,BE]
+[180,BE]
+[Straight,CE]
+[Straight,DE]
+[Straight,EE]
+[Straight,FE]
+[Finish,GE]
